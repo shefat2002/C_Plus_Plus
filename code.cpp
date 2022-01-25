@@ -1,5 +1,3 @@
-//Bismill
-
 //Multiplication table of 1-20 without using * (Multiplication operator)
 
 #include <iostream>
